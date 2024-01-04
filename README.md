@@ -1,4 +1,9 @@
-# Northwestern-Excel-Challenge-
+# Northwestern-Excel-Challenge
+
+## This repository is the analysis of a crowdfunding dataset in excel. 
+The Excel file in this repository includes all the crowdfunding data, as well as the formatting, graphs, and tables necessary to analyze the data. The conclusions for the analysis can be found below in this ReadMe, as well as in the written responses file. 
+
+## Conclusions
 One of the main conclusions that can be drawn from the data is that theater productions are the most commonly crowd funded, having both the most successes and failures. The sub-category plays accounts for all the crowdfunding projects within this category. 
 Interestingly, over half of all projects funded were successful, with most categories having more successes than failures, demonstrating that crowdfunding for entertainment is a viable option for producers of all categories. 
 There is a slight uptick in the number of successful crowdfunding campaigns in June and July. However, the failure amount remains nearly constant. Thus, the slight uptick of successes in the summer months is likely mainly due to there being slightly more campaigns in those months, with a marginal increase in success odds for that time of year. 
